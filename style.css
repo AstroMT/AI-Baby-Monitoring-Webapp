@@ -1,0 +1,35 @@
+body {
+    background: url("background.jpg");
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    margin: 0px;
+    color: #a3a3a3;
+}
+
+
+.header {
+    background-color:#042040;
+    margin-top: 10px;
+    padding-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}
+
+.status_class {
+    color: white;
+}
+
+#status {
+    font-size: 18px;
+}
+
+canvas {
+    border: 3px ridge #d7d7d7;
+    box-shadow: 3px, 3px, 3px, grey;
+    margin-top: 75px;
+}
